@@ -1,6 +1,6 @@
 /* modern.css */
-ARTICLE { font-family: sans-serif; background: white; color: black }
-AUTHOR { margin: 1em; color: red }
+ARTICLE { font-family: sans-serif; background: white; color: #393E41 }
+AUTHOR { margin: 1em; color: #E84040 }
 HEADLINE { text-align: right; margin-bottom: 2em }
 PARA { line-height: 1.5; margin-left: 15% }
-INSTRUMENT { color: blue }
+INSTRUMENT { color: #44BBA4 }
